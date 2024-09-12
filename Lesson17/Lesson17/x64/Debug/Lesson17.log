@@ -1,0 +1,4 @@
+﻿  Lesson17.cpp
+C:\Users\mamma_ed53\source\repos\Lesson17\Lesson17\Lesson17.cpp(153,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mamma_ed53\source\repos\Lesson17\Lesson17\Lesson17.cpp(88,1): warning C4715: 'calculator<float>': not all control paths return a value
+  Lesson17.vcxproj -> C:\Users\mamma_ed53\source\repos\Lesson17\x64\Debug\Lesson17.exe
